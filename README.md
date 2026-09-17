@@ -106,4 +106,4 @@ Hints:
 
 **Shree Gowda**
 
-5th Semester Computer Science Engineering Student
+5th Semester Information Science Engineering Student
